@@ -122,7 +122,6 @@ body {
     letter-spacing: normal;
 }
 
-
 .cover__description {
     position: relative;
     z-index: 2;
@@ -214,7 +213,6 @@ body {
     line-height: 24px;
     text-align: left;
 }
-
 
 .card_type_film {
     position: relative;
@@ -331,7 +329,6 @@ body {
     justify-content: space-between;
     padding: 0px 50px;
 }
-
 
 .footer__address {
     font-style: normal;
